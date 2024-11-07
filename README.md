@@ -1,2 +1,2 @@
 # The-Craft-of-Trading
-A Minimal Model of Trading Tactics
+Using the  Minimal Model (MinMod)
